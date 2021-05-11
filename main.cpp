@@ -1,9 +1,11 @@
 // Curso de programación C++
 // Steck Orozco Durán
+// Danilo Rojas Chanto
 // PRACTICA 2
 // 
 
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main(void) {
